@@ -1,12 +1,9 @@
 # Adding config.py file.
 config.py
-API_practice.ipynb
-random_numbers.ipynb
-Untitled.ipynb
-VacationPy.ipynb
-WeatherPy.ipynb
+.gitignore.txt
 
 # Adding additional files
+WeatherPy_Vacation.csv
 
 
 # Byte-compiled / optimized / DLL files
