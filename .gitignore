@@ -7,7 +7,7 @@ VacationPy.ipynb
 WeatherPy.ipynb
 
 # Adding additional files
-
+weather_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
